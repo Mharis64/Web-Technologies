@@ -1,0 +1,70 @@
+
+#mm{
+position:initial;
+    width: 100vw;
+    background-color: black;
+    height: 7vh;
+    /* margin: 0; */
+    padding: 9px;
+    /* justify-self: center; */
+    
+    
+}
+#menu1{
+    display: inline;
+    font-size: bold;
+    /* margin-left: 1vw; */
+    color: white;
+    text-decoration: none;
+}
+#btn{
+    display: inline;
+    
+}
+
+/* ul {
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    
+}
+
+.nav{
+    display: inline;
+    padding: 10px;
+    font-size: large;
+    
+
+}
+
+.list{
+    display: block;
+    padding: 10px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+
+
+#aboutID{
+    display: none;
+    position: absolute;
+    /* z-index: 1; */
+/* } */
+
+
+/* #aboutLink{
+     position: relative;
+    display: inline-block; 
+} */
+
+/* #aboutLink:hover #aboutID{
+    margin-top: 40px;
+    display: inline-block;
+    
+} */
+ 
